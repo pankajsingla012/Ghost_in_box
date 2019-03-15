@@ -21,13 +21,21 @@ We have used Raspbeery Py as a processor and Ardiuno as a controller for our bot
 
 ### Commands_followed_by_bot
 * Locomotion 
+
             * move forward
+            
             * move backward
+            
             * move right
+            
             * move left
+            
             * follow me
+
 * Multimedia 
+
             * sing a song
+            
             * tell me a joke
            
 ## Team_Members
