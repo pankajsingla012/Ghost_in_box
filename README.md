@@ -17,7 +17,7 @@ It is an emotion detection bot which also follow our commands.
 To detect emotions of a person we have used Convolution Neural Networks. Along side it we created an app for converting speech to text using goolge. All our code (i.e. used in this project) is written in Python3.
 
 ### Hardware
-We have used Raspbeery Py as a processor and Ardiuno as a controller for our bot. Ardiuno it uploaded with ardino code for controlling motors in leg of boats. 
+We have used Raspbeery Py as a processor and Ardiuno as a controller for our bot. Ardiuno it uploaded with ardiuno code for controlling motors in leg of boats. 
 
 ### Commands_followed_by_bot
 * Locomotion 
@@ -32,14 +32,18 @@ We have used Raspbeery Py as a processor and Ardiuno as a controller for our bot
             
             * follow me
 
-* Multimedia 
+* Multimedia
 
             * sing a song
             
             * tell me a joke
            
+           
 ## Team_Members
 * Pankaj Singla
 * Manoj Parihar
 * Jeetendra Kumar
- 
+
+## Mentors
+* Archit Dangayech
+* Ankit Dhankar 
