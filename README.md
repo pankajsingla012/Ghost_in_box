@@ -9,6 +9,7 @@ It is an emotion detection bot which also follow our commands.
 * Convex Lens
 * Jumper Wires
 * Micro SD card
+* Speakers
 * Board, bolts and nuts etc.. for fabrication 
 
 ## Desciption
